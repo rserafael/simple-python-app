@@ -23,4 +23,5 @@ if argnumbers != 2 :
     print("       If unbundled, usage is 'python add2vals.py X Y'.")
     print("")
     print("Something random just to commit and push to the repository")
+    print("Something else just to commit again.")
     sys.exit(1)
