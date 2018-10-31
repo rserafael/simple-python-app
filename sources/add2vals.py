@@ -22,7 +22,5 @@ if argnumbers != 2 :
     print("       If add2vals is not in your path, usage is './add2vals X Y'.")
     print("       If unbundled, usage is 'python add2vals.py X Y'.")
     print("")
-    print("Something random just to commit and push to the repository")
-    print("Something else just to commit again.")
-    print("I'm doing this again.")
+    print("fuck you all")
     sys.exit(1)
